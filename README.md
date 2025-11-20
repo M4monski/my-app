@@ -1,4 +1,4 @@
-DOTA 2 COUNTER PICKER
+# DOTA 2 COUNTER PICKER
 
 # React + Vite
 
